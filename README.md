@@ -1,36 +1,10 @@
 # leap
 
-FIXME: description
+A skeletal project to get started with the leap year dojo on exercism.io quickly.
+
+See http://exercism.io/exercises/clojure/leap/readme for original dojo problem.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+You should have Leiningen and Clojure already installed. Once done, run `lein test` to see your first failing test.
 
-## Usage
-
-FIXME: explanation
-
-    $ java -jar leap-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
