@@ -1,5 +1,4 @@
-(ns leap
-  (:gen-class))
+(ns leap)
 
 
 
